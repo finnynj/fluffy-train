@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "functions",
+    "pageId": "Authentication",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "defaultTab",
+        "value": "'Sign In'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Authentication_functions",
+  "deleted": false,
+  "gitSyncId": "65fab56bdc78c8008330e17b_65fab7242f6b8a5a1dbb4c21"
+}
